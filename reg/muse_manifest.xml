@@ -1,0 +1,732 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tateasda.com" resolutions="1x" timestamp="1514961395185">
+  <folder name="css">
+    <file name="site_global.css" crc="3990582711"/>
+    <file name="master_a-master.css" crc="144044870" ref="marble:baxter:allochory:flower-os:doll:photography:index:ixd1:filter:goblins:modular:art:clock:ixd4:ixd3:aardvark:gif:mask:giraffe:melon:other:man:house:code:clay:glitch:ixd2:cry:ceramic:motion:faces:scans"/>
+    <file name="marble.css" crc="482770246" ref="marble"/>
+    <file name="baxter.css" crc="482091321" ref="baxter"/>
+    <file name="allochory.css" crc="3953639743" ref="allochory"/>
+    <file name="flower-os.css" crc="4208722460" ref="flower-os"/>
+    <file name="doll.css" crc="4267793069" ref="doll"/>
+    <file name="photography.css" crc="4208969132" ref="photography"/>
+    <file name="index.css" crc="325740464" ref="index"/>
+    <file name="ixd1.css" crc="4264756434" ref="ixd1"/>
+    <file name="filter.css" crc="378611809" ref="filter"/>
+    <file name="goblins.css" crc="104900308" ref="goblins"/>
+    <file name="modular.css" crc="3794112918" ref="modular"/>
+    <file name="art.css" crc="536344520" ref="art"/>
+    <file name="clock.css" crc="3792946418" ref="clock"/>
+    <file name="home.css" crc="307894780" ref="home"/>
+    <file name="ixd4.css" crc="3764520405" ref="ixd4"/>
+    <file name="ixd3.css" crc="153286895" ref="ixd3"/>
+    <file name="aardvark.css" crc="4048856139" ref="aardvark"/>
+    <file name="gif.css" crc="266675700" ref="gif"/>
+    <file name="mask.css" crc="85798375" ref="mask"/>
+    <file name="giraffe.css" crc="453972879" ref="giraffe"/>
+    <file name="melon.css" crc="3899318877" ref="melon"/>
+    <file name="other.css" crc="4157010279" ref="other"/>
+    <file name="man.css" crc="4248797841" ref="man"/>
+    <file name="house.css" crc="4086202447" ref="house"/>
+    <file name="code.css" crc="478665564" ref="code"/>
+    <file name="clay.css" crc="203850864" ref="clay"/>
+    <file name="glitch.css" crc="4119361443" ref="glitch"/>
+    <file name="ixd2.css" crc="196589510" ref="ixd2"/>
+    <file name="cry.css" crc="105125373" ref="cry"/>
+    <file name="ceramic.css" crc="487040630" ref="ceramic"/>
+    <file name="motion.css" crc="4107627708" ref="motion"/>
+    <file name="faces.css" crc="289323864" ref="faces"/>
+    <file name="scans.css" crc="3804115058" ref="scans"/>
+  </folder>
+  <folder name="assets">
+    <file name="process-book.pdf" crc="509895834" seo="true" mt="1514726358000"/>
+    <file name="chef-q-pitch.pdf" crc="355220938" seo="true" mt="1514728378000"/>
+    <file name="pitch-deck.pdf" crc="110357449" seo="true" mt="1514729311000"/>
+    <file name="assignment--2-process-book-(1).pdf" crc="4031017558" seo="true" mt="1514729310000"/>
+    <file name="a1-mustakos-t.pdf" crc="3782885204" seo="true" mt="1514728710000"/>
+    <file name="a4_toulmin_mustako_kong_pitch.pdf" crc="148339951" seo="true" mt="1512793494000"/>
+    <file name="a4_toulmin_mustakos_kong_proccess.pdf" crc="3876713358" seo="true" mt="1512795308000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:art:code:other:baxter:modular:clock:faces:index:motion:goblins:glitch:man:aardvark:giraffe:house:doll:ceramic:mask:clay:photography:scans:marble:cry:gif:flower-os:melon:allochory:ixd3:ixd2:ixd1:ixd4:filter"/>
+    <file name="museutils.js" crc="3803043152" ref="home:art:code:other:baxter:modular:clock:faces:index:motion:goblins:glitch:man:aardvark:giraffe:house:doll:ceramic:mask:clay:photography:scans:marble:cry:gif:flower-os:melon:allochory:ixd3:ixd2:ixd1:ixd4:filter"/>
+    <file name="whatinput.js" crc="86476730" ref="home:art:code:other:baxter:modular:clock:faces:index:motion:goblins:glitch:man:aardvark:giraffe:house:doll:ceramic:mask:clay:photography:scans:marble:cry:gif:flower-os:melon:allochory:ixd3:ixd2:ixd1:ixd4:filter"/>
+    <file name="museconfig.js" crc="4153641093" ref="home:art:code:other:baxter:modular:clock:faces:index:motion:goblins:glitch:man:aardvark:giraffe:house:doll:ceramic:mask:clay:photography:scans:marble:cry:gif:flower-os:melon:allochory:ixd3:ixd2:ixd1:ixd4:filter"/>
+    <file name="require.js" crc="4157109226" ref="home:art:code:other:baxter:modular:clock:faces:index:motion:goblins:glitch:man:aardvark:giraffe:house:doll:ceramic:mask:clay:photography:scans:marble:cry:gif:flower-os:melon:allochory:ixd3:ixd2:ixd1:ixd4:filter"/>
+  </folder>
+  <folder name="images">
+    <file name="header_1.jpg" crc="144786997" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="header_2.jpg" crc="4052070152" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="header_3.jpg" crc="3880504393" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="man.jpg" crc="147974861" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="goblin.jpg" crc="49324749" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="aard.jpg" crc="4055847403" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="bjd.jpg" crc="4172001615" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="fade.jpg" crc="4222196162" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="house.jpg" crc="83904868" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="2 (1).jpg" crc="64357235" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="clay.jpg" crc="386781275" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="gir.jpg" crc="3971783645" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="baxter.jpg" crc="178277316" seo="true" ref="code">
+      <caption webpage="code" alt=""/>
+    </file>
+    <file name="1.gif" crc="3878220240" seo="true" ref="code">
+      <caption webpage="code" alt=""/>
+    </file>
+    <file name="generative_faces.jpg" crc="399089293" seo="true" ref="code">
+      <caption webpage="code" alt=""/>
+    </file>
+    <file name="modular_people.jpg" crc="185057028" seo="true" ref="code">
+      <caption webpage="code" alt=""/>
+    </file>
+    <file name="motion_painting.jpg" crc="4130160625" seo="true" ref="code">
+      <caption webpage="code" alt=""/>
+    </file>
+    <file name="flowerosstart.gif" crc="246334924" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="8e76ad_efb1bbc6c7cf46aa9a922a9ef8585dab_mv2.jpg" crc="260043826" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="mb.png" crc="4203698196" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="petnet.jpg" crc="3828762008" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="remy.jpg" crc="3919126139" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="atlantis.jpg" crc="7004487" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="photography.jpg" crc="449016985" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="capture1-crop-u3398.jpg" crc="3850068532" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="errew-crop-u3390.jpg" crc="142456979" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="image_manipulation.jpg" crc="4174225190" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="animated_loops.jpg" crc="4267439949" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="glitchart.jpg" crc="4187321170" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="ssss.jpg" crc="3772352756" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="dial.jpg" crc="4026244258" seo="true" ref="other:ixd1">
+      <caption webpage="other" alt=""/>
+      <caption webpage="ixd1" alt=""/>
+    </file>
+    <file name="crying-simulator-4.gif" crc="366837392" seo="true" ref="other:cry">
+      <caption webpage="cry" alt=""/>
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4232527960" seo="true" ref="baxter">
+      <caption webpage="baxter" alt=""/>
+    </file>
+    <file name="2.jpg" crc="401603317" seo="true" ref="baxter">
+      <caption webpage="baxter" alt=""/>
+    </file>
+    <file name="4 (2).jpg" crc="3874311551" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="5 (2).jpg" crc="4046595103" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="6.jpg" crc="4201241383" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="11.jpg" crc="434514046" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="9.jpg" crc="3806696728" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="16.jpg" crc="3798263109" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="14.jpg" crc="3763880624" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="15-crop-u771.jpg" crc="246724953" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="17.png" crc="426943751" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="1 (4).jpg" crc="39303079" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="10.jpg" crc="3882276696" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="2 (4).jpg" crc="337871686" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="2017-12-30_08h03_32.jpg" crc="3950512845" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="13.jpg" crc="7146503" seo="true" ref="modular">
+      <caption webpage="modular" alt=""/>
+    </file>
+    <file name="download.jpg" crc="478475095" seo="true" ref="clock">
+      <caption webpage="clock" alt=""/>
+    </file>
+    <file name="12.jpg" crc="429918226" seo="true" ref="faces">
+      <caption webpage="faces" alt=""/>
+    </file>
+    <file name="3.jpg" crc="485345933" seo="true" ref="faces">
+      <caption webpage="faces" alt=""/>
+    </file>
+    <file name="7.jpg" crc="3780142985" seo="true" ref="faces">
+      <caption webpage="faces" alt=""/>
+    </file>
+    <file name="22.jpg" crc="3847214238" seo="true" ref="faces">
+      <caption webpage="faces" alt=""/>
+    </file>
+    <file name="62.jpg" crc="3919212549" seo="true" ref="faces">
+      <caption webpage="faces" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4013199099" seo="true" ref="faces">
+      <caption webpage="faces" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4208527466" seo="true" ref="faces">
+      <caption webpage="faces" alt=""/>
+    </file>
+    <file name="img_9206.jpg" crc="4292937398" seo="true" ref="faces">
+      <caption webpage="faces" alt=""/>
+    </file>
+    <file name="img_9205.jpg" crc="3818696215" seo="true" ref="faces">
+      <caption webpage="faces" alt=""/>
+    </file>
+    <file name="52.jpg" crc="450366527" seo="true" ref="motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="32.jpg" crc="4043379896" seo="true" ref="motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="42.jpg" crc="4050881297" seo="true" ref="motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="23.jpg" crc="31474191" seo="true" ref="motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="102.jpg" crc="475253734" seo="true" ref="motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="92.jpg" crc="4152574693" seo="true" ref="motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="72.jpg" crc="144311738" seo="true" ref="motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="8.jpg" crc="3996760559" seo="true" ref="motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="63.jpg" crc="4278150695" seo="true" ref="motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="112.jpg" crc="3925620837" seo="true" ref="motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="15.jpg" crc="4124305001" seo="true" ref="motion">
+      <caption webpage="motion" alt=""/>
+    </file>
+    <file name="1_2.jpg" crc="3983534679" seo="true" ref="goblins">
+      <caption webpage="goblins" alt=""/>
+    </file>
+    <file name="1_3.jpg" crc="288973400" seo="true" ref="goblins">
+      <caption webpage="goblins" alt=""/>
+    </file>
+    <file name="1_12.jpg" crc="4020577659" seo="true" ref="goblins">
+      <caption webpage="goblins" alt=""/>
+    </file>
+    <file name="1_11.jpg" crc="170664842" seo="true" ref="goblins">
+      <caption webpage="goblins" alt=""/>
+    </file>
+    <file name="img_9252-crop-u1379.jpg" crc="3774383500" seo="true" ref="goblins">
+      <caption webpage="goblins" alt=""/>
+    </file>
+    <file name="1_1.jpg" crc="4203466261" seo="true" ref="goblins">
+      <caption webpage="goblins" alt=""/>
+    </file>
+    <file name="1_5.jpg" crc="4169088094" seo="true" ref="goblins">
+      <caption webpage="goblins" alt=""/>
+    </file>
+    <file name="1_9.jpg" crc="327640864" seo="true" ref="goblins">
+      <caption webpage="goblins" alt=""/>
+    </file>
+    <file name="1_7.jpg" crc="3948399276" seo="true" ref="goblins">
+      <caption webpage="goblins" alt=""/>
+    </file>
+    <file name="1_8.jpg" crc="4175834351" seo="true" ref="goblins">
+      <caption webpage="goblins" alt=""/>
+    </file>
+    <file name="1_6.jpg" crc="435202366" seo="true" ref="goblins">
+      <caption webpage="goblins" alt=""/>
+    </file>
+    <file name="1_4.jpg" crc="29094550" seo="true" ref="goblins">
+      <caption webpage="goblins" alt=""/>
+    </file>
+    <file name="3_2.jpg" crc="57206128" seo="true" ref="glitch">
+      <caption webpage="glitch" alt=""/>
+    </file>
+    <file name="2017-06-30_21h33_52.jpg" crc="4018891014" seo="true" ref="glitch">
+      <caption webpage="glitch" alt=""/>
+    </file>
+    <file name="2017-06-30_21h33_522.jpg" crc="4051492663" seo="true" ref="glitch">
+      <caption webpage="glitch" alt=""/>
+    </file>
+    <file name="2_2.jpg" crc="4259262618" seo="true" ref="glitch">
+      <caption webpage="glitch" alt=""/>
+    </file>
+    <file name="llll_1.jpg" crc="256360709" seo="true" ref="glitch">
+      <caption webpage="glitch" alt=""/>
+    </file>
+    <file name="l6_1.jpg" crc="3785526845" seo="true" ref="glitch">
+      <caption webpage="glitch" alt=""/>
+    </file>
+    <file name="l7_2.jpg" crc="13088842" seo="true" ref="glitch">
+      <caption webpage="glitch" alt=""/>
+    </file>
+    <file name="2_0.jpg" crc="310721779" seo="true" ref="glitch">
+      <caption webpage="glitch" alt=""/>
+    </file>
+    <file name="lll_0.jpg" crc="4139272545" seo="true" ref="glitch">
+      <caption webpage="glitch" alt=""/>
+    </file>
+    <file name="bb.jpg" crc="134609657" seo="true" ref="man">
+      <caption webpage="man" alt=""/>
+    </file>
+    <file name="flowers.jpg" crc="4207583367" seo="true" ref="man">
+      <caption webpage="man" alt=""/>
+    </file>
+    <file name="oven-u1479.png" crc="214933679" ref="man"/>
+    <file name="aaaaaa.jpg" crc="192206921" seo="true" ref="man">
+      <caption webpage="man" alt=""/>
+    </file>
+    <file name="doll.jpg" crc="67323429" seo="true" ref="man">
+      <caption webpage="man" alt=""/>
+    </file>
+    <file name="ezgif-1-c257c8d7b8.gif" crc="3773437552" seo="true" ref="man">
+      <caption webpage="man" alt=""/>
+    </file>
+    <file name="ezgif-1-28f09dba6e.gif" crc="41648568" seo="true" ref="man">
+      <caption webpage="man" alt=""/>
+    </file>
+    <file name="hh.jpg" crc="49282540" seo="true" ref="man">
+      <caption webpage="man" alt=""/>
+    </file>
+    <file name="img_9276.jpg" crc="4075141420" seo="true" ref="man">
+      <caption webpage="man" alt=""/>
+    </file>
+    <file name="img_9338.jpg" crc="3901840093" seo="true" ref="aardvark">
+      <caption webpage="aardvark" alt=""/>
+    </file>
+    <file name="img_9283.jpg" crc="128734226" seo="true" ref="aardvark">
+      <caption webpage="aardvark" alt=""/>
+    </file>
+    <file name="img_9280.jpg" crc="230297951" seo="true" ref="aardvark">
+      <caption webpage="aardvark" alt=""/>
+    </file>
+    <file name="img_9282.jpg" crc="212413902" seo="true" ref="aardvark">
+      <caption webpage="aardvark" alt=""/>
+    </file>
+    <file name="img_9216.jpg" crc="210658114" seo="true" ref="giraffe">
+      <caption webpage="giraffe" alt=""/>
+    </file>
+    <file name="img_9221.jpg" crc="32930966" seo="true" ref="giraffe">
+      <caption webpage="giraffe" alt=""/>
+    </file>
+    <file name="img_9213.jpg" crc="3905497999" seo="true" ref="giraffe">
+      <caption webpage="giraffe" alt=""/>
+    </file>
+    <file name="img_9212.jpg" crc="500853772" seo="true" ref="giraffe">
+      <caption webpage="giraffe" alt=""/>
+    </file>
+    <file name="img_9214.jpg" crc="313784558" seo="true" ref="giraffe">
+      <caption webpage="giraffe" alt=""/>
+    </file>
+    <file name="img_9215.jpg" crc="367002168" seo="true" ref="giraffe">
+      <caption webpage="giraffe" alt=""/>
+    </file>
+    <file name="cimg3039.jpg" crc="427495314" seo="true" ref="house">
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="cimg3041.jpg" crc="4256287877" seo="true" ref="house">
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="cimg3040.jpg" crc="3925568905" seo="true" ref="house">
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="cimg3042.jpg" crc="207067907" seo="true" ref="house">
+      <caption webpage="house" alt=""/>
+    </file>
+    <file name="_mg_6149.jpg" crc="234665649" seo="true" ref="doll">
+      <caption webpage="doll" alt=""/>
+    </file>
+    <file name="_mg_6146.jpg" crc="243164738" seo="true" ref="doll">
+      <caption webpage="doll" alt=""/>
+    </file>
+    <file name="_mg_6147.jpg" crc="452742423" seo="true" ref="doll">
+      <caption webpage="doll" alt=""/>
+    </file>
+    <file name="p1010939.jpg" crc="372465282" seo="true" ref="ceramic">
+      <caption webpage="ceramic" alt=""/>
+    </file>
+    <file name="p1010940.jpg" crc="3920702669" seo="true" ref="ceramic">
+      <caption webpage="ceramic" alt=""/>
+    </file>
+    <file name="p1010941.jpg" crc="332240314" seo="true" ref="ceramic">
+      <caption webpage="ceramic" alt=""/>
+    </file>
+    <file name="p1010942.jpg" crc="4179450571" seo="true" ref="ceramic">
+      <caption webpage="ceramic" alt=""/>
+    </file>
+    <file name="p1010944.jpg" crc="4031192674" seo="true" ref="ceramic">
+      <caption webpage="ceramic" alt=""/>
+    </file>
+    <file name="p1010943.jpg" crc="379381555" seo="true" ref="ceramic">
+      <caption webpage="ceramic" alt=""/>
+    </file>
+    <file name="cimg3031.jpg" crc="184689026" seo="true" ref="mask">
+      <caption webpage="mask" alt=""/>
+    </file>
+    <file name="cimg3030.jpg" crc="3965531616" seo="true" ref="mask">
+      <caption webpage="mask" alt=""/>
+    </file>
+    <file name="cimg3034.jpg" crc="4057645573" seo="true" ref="mask">
+      <caption webpage="mask" alt=""/>
+    </file>
+    <file name="cimg3035.jpg" crc="4094924501" seo="true" ref="mask">
+      <caption webpage="mask" alt=""/>
+    </file>
+    <file name="cimg3033.jpg" crc="19202714" seo="true" ref="mask">
+      <caption webpage="mask" alt=""/>
+    </file>
+    <file name="img_9261.jpg" crc="513574532" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9392.jpg" crc="297045626" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9441.jpg" crc="4190193941" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9456.jpg" crc="57479934" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9449.jpg" crc="4285050350" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9535.jpg" crc="4205164523" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9370.jpg" crc="4212689578" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9415.jpg" crc="431445658" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9424.jpg" crc="205002143" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9361.jpg" crc="4068536102" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="2_1.jpg" crc="506928229" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9265.jpg" crc="92223951" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9475.jpg" crc="32818762" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9401.jpg" crc="231097718" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9472.jpg" crc="4011711437" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9468.jpg" crc="501560832" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9473.jpg" crc="4150783571" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9470.jpg" crc="4084869462" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img_9410.jpg" crc="4012486309" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="img.jpg" crc="149880864" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_5785.jpg" crc="509616645" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="im_3124.jpg" crc="188483069" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_5870.jpg" crc="182858468" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_4950.jpg" crc="3814999759" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_2014.jpg" crc="4198081537" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_5780.jpg" crc="4182296263" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_6017.jpg" crc="4219356220" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="capture1.jpg" crc="278054227" seo="true" ref="scans">
+      <caption webpage="scans" alt=""/>
+    </file>
+    <file name="dd.jpg" crc="202242874" seo="true" ref="scans">
+      <caption webpage="scans" alt=""/>
+    </file>
+    <file name="capture2.jpg" crc="4101031677" seo="true" ref="scans">
+      <caption webpage="scans" alt=""/>
+    </file>
+    <file name="53.jpg" crc="310873137" seo="true" ref="scans">
+      <caption webpage="scans" alt=""/>
+    </file>
+    <file name="64.jpg" crc="4244383056" seo="true" ref="scans">
+      <caption webpage="scans" alt=""/>
+    </file>
+    <file name="capture3.jpg" crc="4092164845" seo="true" ref="scans">
+      <caption webpage="scans" alt=""/>
+    </file>
+    <file name="eg.jpg" crc="13685648" seo="true" ref="scans">
+      <caption webpage="scans" alt=""/>
+    </file>
+    <file name="s.jpg" crc="481825473" seo="true" ref="scans">
+      <caption webpage="scans" alt=""/>
+    </file>
+    <file name="capture4.jpg" crc="3905286649" seo="true" ref="scans">
+      <caption webpage="scans" alt=""/>
+    </file>
+    <file name="73.jpg" crc="332774795" seo="true" ref="scans">
+      <caption webpage="scans" alt=""/>
+    </file>
+    <file name="errew.jpg" crc="4152623267" seo="true" ref="marble">
+      <caption webpage="marble" alt=""/>
+    </file>
+    <file name="f.jpg" crc="4100342798" seo="true" ref="marble">
+      <caption webpage="marble" alt=""/>
+    </file>
+    <file name="sadsd.jpg" crc="4106409593" seo="true" ref="marble">
+      <caption webpage="marble" alt=""/>
+    </file>
+    <file name="sdad.jpg" crc="4278244714" seo="true" ref="marble">
+      <caption webpage="marble" alt=""/>
+    </file>
+    <file name="ere.jpg" crc="418925182" seo="true" ref="marble">
+      <caption webpage="marble" alt=""/>
+    </file>
+    <file name="qeqw.jpg" crc="3890011072" seo="true" ref="marble">
+      <caption webpage="marble" alt=""/>
+    </file>
+    <file name="crying-simulator-3-1.gif" crc="314792879" seo="true" ref="cry">
+      <caption webpage="cry" alt=""/>
+    </file>
+    <file name="random-size-smaller.gif" crc="203238855" seo="true" ref="gif">
+      <caption webpage="gif" alt=""/>
+    </file>
+    <file name="random-size.gif" crc="206697464" seo="true" ref="gif">
+      <caption webpage="gif" alt=""/>
+    </file>
+    <file name="asdads.gif" crc="4049993060" seo="true" ref="gif">
+      <caption webpage="gif" alt=""/>
+    </file>
+    <file name="small.gif" crc="463918832" seo="true" ref="gif">
+      <caption webpage="gif" alt=""/>
+    </file>
+    <file name="clear-off-ssolid-colors.gif" crc="216860779" seo="true" ref="gif">
+      <caption webpage="gif" alt=""/>
+    </file>
+    <file name="no-angle.gif" crc="306769945" seo="true" ref="gif">
+      <caption webpage="gif" alt=""/>
+    </file>
+    <file name="gif1.gif" crc="4115109051" seo="true" ref="gif">
+      <caption webpage="gif" alt=""/>
+    </file>
+    <file name="gif1 (1).gif" crc="4011894462" seo="true" ref="gif">
+      <caption webpage="gif" alt=""/>
+    </file>
+    <file name="clear-off.gif" crc="298701963" seo="true" ref="gif">
+      <caption webpage="gif" alt=""/>
+    </file>
+    <file name="300.gif" crc="4038705313" seo="true" ref="gif">
+      <caption webpage="gif" alt=""/>
+    </file>
+    <file name="gif-greys.gif" crc="215188898" seo="true" ref="gif">
+      <caption webpage="gif" alt=""/>
+    </file>
+    <file name="no-ofset.gif" crc="4294270508" seo="true" ref="gif">
+      <caption webpage="gif" alt=""/>
+    </file>
+    <file name="2017-12-30_06h25_16-crop-u2797.jpg" crc="80148086" seo="true" ref="flower-os">
+      <caption webpage="flower-os" alt=""/>
+    </file>
+    <file name="image3.png" crc="3938451974" seo="true" ref="melon">
+      <caption webpage="melon" alt=""/>
+    </file>
+    <file name="image4.png" crc="3971946165" seo="true" ref="melon">
+      <caption webpage="melon" alt=""/>
+    </file>
+    <file name="image5.png" crc="79035973" seo="true" ref="melon">
+      <caption webpage="melon" alt=""/>
+    </file>
+    <file name="image6.png" crc="3907100729" seo="true" ref="melon">
+      <caption webpage="melon" alt=""/>
+    </file>
+    <file name="image7.png" crc="3846754765" seo="true" ref="melon">
+      <caption webpage="melon" alt=""/>
+    </file>
+    <file name="image1 (2).png" crc="3933177398" seo="true" ref="melon">
+      <caption webpage="melon" alt=""/>
+    </file>
+    <file name="image2 (2).png" crc="115399461" seo="true" ref="melon">
+      <caption webpage="melon" alt=""/>
+    </file>
+    <file name="image2.png" crc="123630237" seo="true" ref="melon">
+      <caption webpage="melon" alt=""/>
+    </file>
+    <file name="image1.png" crc="205421566" seo="true" ref="melon">
+      <caption webpage="melon" alt=""/>
+    </file>
+    <file name="22473589_1453866698002201_1080351518_o-768x461.jpg" crc="4031866604" seo="true" ref="allochory">
+      <caption webpage="allochory" alt=""/>
+    </file>
+    <file name="img_20170928_091948.jpg" crc="4152745252" seo="true" ref="ixd2">
+      <caption webpage="ixd2" alt=""/>
+    </file>
+    <file name="img_20170928_100909.jpg" crc="163611256" seo="true" ref="ixd2">
+      <caption webpage="ixd2" alt=""/>
+    </file>
+    <file name="workin (1).jpg" crc="3997280212" seo="true" ref="ixd1">
+      <caption webpage="ixd1" alt=""/>
+    </file>
+    <file name="petnet owner home (m).jpg" crc="482684618" seo="true" ref="ixd4">
+      <caption webpage="ixd4" alt=""/>
+    </file>
+    <file name="petnet need help (m).jpg" crc="181764079" seo="true" ref="ixd4">
+      <caption webpage="ixd4" alt=""/>
+    </file>
+    <file name="petnet location vet.jpg" crc="3839994753" seo="true" ref="ixd4">
+      <caption webpage="ixd4" alt=""/>
+    </file>
+    <file name="petnet helper home message.jpg" crc="4158273990" seo="true" ref="ixd4">
+      <caption webpage="ixd4" alt=""/>
+    </file>
+    <file name="bat_filtered.jpg" crc="525655195" seo="true" ref="filter">
+      <caption webpage="filter" alt=""/>
+    </file>
+    <file name="bat.jpg" crc="3993096598" seo="true" ref="filter">
+      <caption webpage="filter" alt=""/>
+    </file>
+    <file name="a.jpg" crc="305899735" seo="true" ref="filter">
+      <caption webpage="filter" alt=""/>
+    </file>
+    <file name="b.jpg" crc="405260580" seo="true" ref="filter">
+      <caption webpage="filter" alt=""/>
+    </file>
+    <file name="c.jpg" crc="4191160783" seo="true" ref="filter">
+      <caption webpage="filter" alt=""/>
+    </file>
+    <file name="face.jpg" crc="11147638" seo="true" ref="filter">
+      <caption webpage="filter" alt=""/>
+    </file>
+    <file name="face_filtered.jpg" crc="126805472" seo="true" ref="filter">
+      <caption webpage="filter" alt=""/>
+    </file>
+    <file name="17.jpg" crc="4130848236" seo="true" ref="filter">
+      <caption webpage="filter" alt=""/>
+    </file>
+    <file name="24.jpg" crc="364331006" seo="true" ref="filter">
+      <caption webpage="filter" alt=""/>
+    </file>
+    <file name="33.jpg" crc="3840634615" seo="true" ref="filter">
+      <caption webpage="filter" alt=""/>
+    </file>
+    <file name="43.jpg" crc="496925567" seo="true" ref="filter">
+      <caption webpage="filter" alt=""/>
+    </file>
+    <file name="54.jpg" crc="4045095468" seo="true" ref="filter">
+      <caption webpage="filter" alt=""/>
+    </file>
+    <file name="65.jpg" crc="4023358659" seo="true" ref="filter">
+      <caption webpage="filter" alt=""/>
+    </file>
+  </folder>
+  <file name="home.html" crc="109714084" seo="true" mt="1514961323996" redirect="true"/>
+  <file name="art.html" crc="4155085244" seo="true" mt="1514915383239" redirect="true"/>
+  <file name="code.html" crc="3768535028" seo="true" mt="1514915462345" redirect="true"/>
+  <file name="other.html" crc="3840436286" seo="true" mt="1514915325484" redirect="true"/>
+  <file name="baxter.html" crc="3820572306" seo="true" mt="1514910138530" redirect="true"/>
+  <file name="modular.html" crc="63208036" seo="true" mt="1514910158127" redirect="true"/>
+  <file name="clock.html" crc="3805207983" seo="true" mt="1514909926869" redirect="true"/>
+  <file name="faces.html" crc="4274158859" seo="true" mt="1514910123899" redirect="true"/>
+  <file name="index.html" crc="529455098" seo="true" mt="1514909934840" redirect="true"/>
+  <file name="motion.html" crc="3890655902" seo="true" mt="1514911225484" redirect="true"/>
+  <file name="goblins.html" crc="4259491837" seo="true" mt="1514911572947" redirect="true"/>
+  <file name="glitch.html" crc="415890548" seo="true" mt="1514913445858" redirect="true"/>
+  <file name="man.html" crc="390716350" seo="true" mt="1514911781990" redirect="true"/>
+  <file name="aardvark.html" crc="384263600" seo="true" mt="1514911883273" redirect="true"/>
+  <file name="giraffe.html" crc="4232921200" seo="true" mt="1514912065695" redirect="true"/>
+  <file name="house.html" crc="4103158546" seo="true" mt="1514912260334" redirect="true"/>
+  <file name="doll.html" crc="4158521107" seo="true" mt="1514912297333" redirect="true"/>
+  <file name="ceramic.html" crc="98776040" seo="true" mt="1514912639297" redirect="true"/>
+  <file name="mask.html" crc="4259364340" seo="true" mt="1514912782199" redirect="true"/>
+  <file name="clay.html" crc="4146557982" seo="true" mt="1514913006996" redirect="true"/>
+  <file name="photography.html" crc="35778859" seo="true" mt="1514913223127" redirect="true"/>
+  <file name="scans.html" crc="363114770" seo="true" mt="1514913588263" redirect="true"/>
+  <file name="marble.html" crc="412587812" seo="true" mt="1514913708910" redirect="true"/>
+  <file name="cry.html" crc="4009223755" seo="true" mt="1514913835302" redirect="true"/>
+  <file name="gif.html" crc="180082822" seo="true" mt="1514913895376" redirect="true"/>
+  <file name="flower-os.html" crc="99559044" seo="true" mt="1514913960009" redirect="true"/>
+  <file name="melon.html" crc="66515083" seo="true" mt="1514914067001" redirect="true"/>
+  <file name="allochory.html" crc="113613120" seo="true" mt="1514914440945" redirect="true"/>
+  <file name="ixd3.html" crc="3900117643" seo="true" mt="1514914543380" redirect="true"/>
+  <file name="ixd2.html" crc="4100105589" seo="true" mt="1514914838566" redirect="true"/>
+  <file name="ixd1.html" crc="274654747" seo="true" mt="1514914922425" redirect="true"/>
+  <file name="ixd4.html" crc="345814669" seo="true" mt="1514914992174" redirect="true"/>
+  <file name="filter.html" crc="4052688656" seo="true" mt="1514915133092" redirect="true"/>
+</manifest>
