@@ -1,40 +1,40 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tateasda.com" resolutions="1x" timestamp="1514961395185">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tademu.com" resolutions="1x" timestamp="1516688500170">
   <folder name="css">
-    <file name="site_global.css" crc="3990582711"/>
-    <file name="master_a-master.css" crc="144044870" ref="marble:baxter:allochory:flower-os:doll:photography:index:ixd1:filter:goblins:modular:art:clock:ixd4:ixd3:aardvark:gif:mask:giraffe:melon:other:man:house:code:clay:glitch:ixd2:cry:ceramic:motion:faces:scans"/>
-    <file name="marble.css" crc="482770246" ref="marble"/>
-    <file name="baxter.css" crc="482091321" ref="baxter"/>
-    <file name="allochory.css" crc="3953639743" ref="allochory"/>
-    <file name="flower-os.css" crc="4208722460" ref="flower-os"/>
-    <file name="doll.css" crc="4267793069" ref="doll"/>
-    <file name="photography.css" crc="4208969132" ref="photography"/>
-    <file name="index.css" crc="325740464" ref="index"/>
-    <file name="ixd1.css" crc="4264756434" ref="ixd1"/>
-    <file name="filter.css" crc="378611809" ref="filter"/>
-    <file name="goblins.css" crc="104900308" ref="goblins"/>
-    <file name="modular.css" crc="3794112918" ref="modular"/>
-    <file name="art.css" crc="536344520" ref="art"/>
-    <file name="clock.css" crc="3792946418" ref="clock"/>
-    <file name="home.css" crc="307894780" ref="home"/>
-    <file name="ixd4.css" crc="3764520405" ref="ixd4"/>
-    <file name="ixd3.css" crc="153286895" ref="ixd3"/>
-    <file name="aardvark.css" crc="4048856139" ref="aardvark"/>
-    <file name="gif.css" crc="266675700" ref="gif"/>
-    <file name="mask.css" crc="85798375" ref="mask"/>
-    <file name="giraffe.css" crc="453972879" ref="giraffe"/>
-    <file name="melon.css" crc="3899318877" ref="melon"/>
-    <file name="other.css" crc="4157010279" ref="other"/>
-    <file name="man.css" crc="4248797841" ref="man"/>
-    <file name="house.css" crc="4086202447" ref="house"/>
-    <file name="code.css" crc="478665564" ref="code"/>
-    <file name="clay.css" crc="203850864" ref="clay"/>
-    <file name="glitch.css" crc="4119361443" ref="glitch"/>
-    <file name="ixd2.css" crc="196589510" ref="ixd2"/>
-    <file name="cry.css" crc="105125373" ref="cry"/>
-    <file name="ceramic.css" crc="487040630" ref="ceramic"/>
-    <file name="motion.css" crc="4107627708" ref="motion"/>
-    <file name="faces.css" crc="289323864" ref="faces"/>
+    <file name="site_global.css" crc="405512815"/>
+    <file name="master_a-master.css" crc="3899508463" ref="scans:filter:giraffe:other:house:gif:marble:cry:photography:flower-os:ixd3:doll:allochory:glitch:mask:ceramic:clock:ixd1:ixd4:melon:index:clay:baxter:modular:ixd2:aardvark:motion:goblins:faces:man:art:code"/>
     <file name="scans.css" crc="3804115058" ref="scans"/>
+    <file name="filter.css" crc="3823158554" ref="filter"/>
+    <file name="giraffe.css" crc="453972879" ref="giraffe"/>
+    <file name="other.css" crc="491074272" ref="other"/>
+    <file name="house.css" crc="4086202447" ref="house"/>
+    <file name="gif.css" crc="3839637913" ref="gif"/>
+    <file name="marble.css" crc="109929951" ref="marble"/>
+    <file name="cry.css" crc="4071008634" ref="cry"/>
+    <file name="photography.css" crc="12262682" ref="photography"/>
+    <file name="flower-os.css" crc="138284363" ref="flower-os"/>
+    <file name="ixd3.css" crc="194046677" ref="ixd3"/>
+    <file name="doll.css" crc="4267793069" ref="doll"/>
+    <file name="allochory.css" crc="3945312822" ref="allochory"/>
+    <file name="glitch.css" crc="191123724" ref="glitch"/>
+    <file name="mask.css" crc="85798375" ref="mask"/>
+    <file name="ceramic.css" crc="487040630" ref="ceramic"/>
+    <file name="clock.css" crc="4275124456" ref="clock"/>
+    <file name="home.css" crc="4246223509" ref="home"/>
+    <file name="ixd1.css" crc="100446342" ref="ixd1"/>
+    <file name="ixd4.css" crc="275802211" ref="ixd4"/>
+    <file name="melon.css" crc="118624869" ref="melon"/>
+    <file name="index.css" crc="176916076" ref="index"/>
+    <file name="clay.css" crc="203850864" ref="clay"/>
+    <file name="baxter.css" crc="448447827" ref="baxter"/>
+    <file name="modular.css" crc="3848830935" ref="modular"/>
+    <file name="ixd2.css" crc="167738517" ref="ixd2"/>
+    <file name="aardvark.css" crc="4048856139" ref="aardvark"/>
+    <file name="motion.css" crc="4292278598" ref="motion"/>
+    <file name="goblins.css" crc="104900308" ref="goblins"/>
+    <file name="faces.css" crc="3978641880" ref="faces"/>
+    <file name="man.css" crc="4248797841" ref="man"/>
+    <file name="art.css" crc="4241984966" ref="art"/>
+    <file name="code.css" crc="430989676" ref="code"/>
   </folder>
   <folder name="assets">
     <file name="process-book.pdf" crc="509895834" seo="true" mt="1514726358000"/>
@@ -89,19 +89,19 @@
     <file name="gir.jpg" crc="3971783645" seo="true" ref="art">
       <caption webpage="art" alt=""/>
     </file>
-    <file name="baxter.jpg" crc="178277316" seo="true" ref="code">
+    <file name="modular_people.jpg" crc="185057028" seo="true" ref="code">
       <caption webpage="code" alt=""/>
     </file>
-    <file name="1.gif" crc="3878220240" seo="true" ref="code">
+    <file name="motion_painting.jpg" crc="4130160625" seo="true" ref="code">
       <caption webpage="code" alt=""/>
     </file>
     <file name="generative_faces.jpg" crc="399089293" seo="true" ref="code">
       <caption webpage="code" alt=""/>
     </file>
-    <file name="modular_people.jpg" crc="185057028" seo="true" ref="code">
+    <file name="1.gif" crc="3878220240" seo="true" ref="code">
       <caption webpage="code" alt=""/>
     </file>
-    <file name="motion_painting.jpg" crc="4130160625" seo="true" ref="code">
+    <file name="baxter.jpg" crc="178277316" seo="true" ref="code">
       <caption webpage="code" alt=""/>
     </file>
     <file name="flowerosstart.gif" crc="246334924" seo="true" ref="other">
@@ -144,8 +144,8 @@
       <caption webpage="other" alt=""/>
     </file>
     <file name="dial.jpg" crc="4026244258" seo="true" ref="other:ixd1">
-      <caption webpage="other" alt=""/>
       <caption webpage="ixd1" alt=""/>
+      <caption webpage="other" alt=""/>
     </file>
     <file name="crying-simulator-4.gif" crc="366837392" seo="true" ref="other:cry">
       <caption webpage="cry" alt=""/>
@@ -696,37 +696,37 @@
       <caption webpage="filter" alt=""/>
     </file>
   </folder>
-  <file name="home.html" crc="109714084" seo="true" mt="1514961323996" redirect="true"/>
-  <file name="art.html" crc="4155085244" seo="true" mt="1514915383239" redirect="true"/>
-  <file name="code.html" crc="3768535028" seo="true" mt="1514915462345" redirect="true"/>
-  <file name="other.html" crc="3840436286" seo="true" mt="1514915325484" redirect="true"/>
-  <file name="baxter.html" crc="3820572306" seo="true" mt="1514910138530" redirect="true"/>
-  <file name="modular.html" crc="63208036" seo="true" mt="1514910158127" redirect="true"/>
-  <file name="clock.html" crc="3805207983" seo="true" mt="1514909926869" redirect="true"/>
-  <file name="faces.html" crc="4274158859" seo="true" mt="1514910123899" redirect="true"/>
-  <file name="index.html" crc="529455098" seo="true" mt="1514909934840" redirect="true"/>
-  <file name="motion.html" crc="3890655902" seo="true" mt="1514911225484" redirect="true"/>
-  <file name="goblins.html" crc="4259491837" seo="true" mt="1514911572947" redirect="true"/>
-  <file name="glitch.html" crc="415890548" seo="true" mt="1514913445858" redirect="true"/>
-  <file name="man.html" crc="390716350" seo="true" mt="1514911781990" redirect="true"/>
-  <file name="aardvark.html" crc="384263600" seo="true" mt="1514911883273" redirect="true"/>
-  <file name="giraffe.html" crc="4232921200" seo="true" mt="1514912065695" redirect="true"/>
-  <file name="house.html" crc="4103158546" seo="true" mt="1514912260334" redirect="true"/>
-  <file name="doll.html" crc="4158521107" seo="true" mt="1514912297333" redirect="true"/>
-  <file name="ceramic.html" crc="98776040" seo="true" mt="1514912639297" redirect="true"/>
-  <file name="mask.html" crc="4259364340" seo="true" mt="1514912782199" redirect="true"/>
-  <file name="clay.html" crc="4146557982" seo="true" mt="1514913006996" redirect="true"/>
-  <file name="photography.html" crc="35778859" seo="true" mt="1514913223127" redirect="true"/>
-  <file name="scans.html" crc="363114770" seo="true" mt="1514913588263" redirect="true"/>
-  <file name="marble.html" crc="412587812" seo="true" mt="1514913708910" redirect="true"/>
-  <file name="cry.html" crc="4009223755" seo="true" mt="1514913835302" redirect="true"/>
-  <file name="gif.html" crc="180082822" seo="true" mt="1514913895376" redirect="true"/>
-  <file name="flower-os.html" crc="99559044" seo="true" mt="1514913960009" redirect="true"/>
-  <file name="melon.html" crc="66515083" seo="true" mt="1514914067001" redirect="true"/>
-  <file name="allochory.html" crc="113613120" seo="true" mt="1514914440945" redirect="true"/>
-  <file name="ixd3.html" crc="3900117643" seo="true" mt="1514914543380" redirect="true"/>
-  <file name="ixd2.html" crc="4100105589" seo="true" mt="1514914838566" redirect="true"/>
-  <file name="ixd1.html" crc="274654747" seo="true" mt="1514914922425" redirect="true"/>
-  <file name="ixd4.html" crc="345814669" seo="true" mt="1514914992174" redirect="true"/>
-  <file name="filter.html" crc="4052688656" seo="true" mt="1514915133092" redirect="true"/>
+  <file name="home.html" crc="4020613196" seo="true" mt="1514961323996" redirect="true"/>
+  <file name="art.html" crc="4206191653" seo="true" mt="1514915383239" redirect="true"/>
+  <file name="code.html" crc="4037907241" seo="true" mt="1516687629664" redirect="true"/>
+  <file name="other.html" crc="460973744" seo="true" mt="1514915325484" redirect="true"/>
+  <file name="baxter.html" crc="3973450011" seo="true" mt="1514910138530" redirect="true"/>
+  <file name="modular.html" crc="206554374" seo="true" mt="1514910158127" redirect="true"/>
+  <file name="clock.html" crc="449526405" seo="true" mt="1514909926869" redirect="true"/>
+  <file name="faces.html" crc="107683431" seo="true" mt="1514910123899" redirect="true"/>
+  <file name="index.html" crc="320078257" seo="true" mt="1514909934840" redirect="true"/>
+  <file name="motion.html" crc="3801091409" seo="true" mt="1514911225484" redirect="true"/>
+  <file name="goblins.html" crc="498136231" seo="true" mt="1514911572947" redirect="true"/>
+  <file name="glitch.html" crc="493390721" seo="true" mt="1514913445858" redirect="true"/>
+  <file name="man.html" crc="205066918" seo="true" mt="1514911781990" redirect="true"/>
+  <file name="aardvark.html" crc="3874501269" seo="true" mt="1514911883273" redirect="true"/>
+  <file name="giraffe.html" crc="4227912971" seo="true" mt="1514912065695" redirect="true"/>
+  <file name="house.html" crc="420004267" seo="true" mt="1514912260334" redirect="true"/>
+  <file name="doll.html" crc="103263735" seo="true" mt="1514912297333" redirect="true"/>
+  <file name="ceramic.html" crc="138307668" seo="true" mt="1514912639297" redirect="true"/>
+  <file name="mask.html" crc="215531033" seo="true" mt="1514912782199" redirect="true"/>
+  <file name="clay.html" crc="106322844" seo="true" mt="1514913006996" redirect="true"/>
+  <file name="photography.html" crc="225287741" seo="true" mt="1514913223127" redirect="true"/>
+  <file name="scans.html" crc="64991313" seo="true" mt="1514913588263" redirect="true"/>
+  <file name="marble.html" crc="256652934" seo="true" mt="1514913708910" redirect="true"/>
+  <file name="cry.html" crc="4199360602" seo="true" mt="1514913835302" redirect="true"/>
+  <file name="gif.html" crc="409490537" seo="true" mt="1514913895376" redirect="true"/>
+  <file name="flower-os.html" crc="3773412980" seo="true" mt="1514913960009" redirect="true"/>
+  <file name="melon.html" crc="256063727" seo="true" mt="1514914067001" redirect="true"/>
+  <file name="allochory.html" crc="511616496" seo="true" mt="1514914440945" redirect="true"/>
+  <file name="ixd3.html" crc="4157851276" seo="true" mt="1514914543380" redirect="true"/>
+  <file name="ixd2.html" crc="393727009" seo="true" mt="1514914838566" redirect="true"/>
+  <file name="ixd1.html" crc="493276293" seo="true" mt="1514914922425" redirect="true"/>
+  <file name="ixd4.html" crc="4097657065" seo="true" mt="1514914992174" redirect="true"/>
+  <file name="filter.html" crc="4205076338" seo="true" mt="1514915133092" redirect="true"/>
 </manifest>
